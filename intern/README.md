@@ -21,5 +21,5 @@ Silahkan lakukan pull request dengan merubah laman ini melalui [repo](https://gi
 
 |No.| Nama | URL Github Pages/ URL Backend dan Dokumentasi API|
 |---|---|---|
-|1. | | |
+|1. | Siti Yulianingsih | https://styulia.github.io/styulia.Weather.github.io/ |
 

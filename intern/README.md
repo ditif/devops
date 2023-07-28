@@ -20,4 +20,4 @@ Silahkan lakukan pull request dengan merubah laman ini melalui [repo](https://gi
 
 | No. | Nama               | URL Github Pages/ URL Backend dan Dokumentasi API   |
 | --- | ------------------ | --------------------------------------------------- |
-| 1.  | Didik Adi Darmawan | https://github.com/lnhdad070917/Web-porto-react.git |
+| 1.  | Didik Adi Darmawan | https://github.com/lnhdad070917/test_vanilaJS.git   |

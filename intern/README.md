@@ -1,7 +1,3 @@
-# Test Penerimaan Intern Program 2023
-
-Sebagai acuan, membaca terlebih dahulu ketentuan [standar DTI](../README.md).
-
 Silahkan memilih salah satu dari pengembangan yang akan dilakukan :
 1. Frontend 
 

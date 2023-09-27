@@ -37,11 +37,12 @@ Untuk mendukung low level carbong coding, pengembangan yang dilakukan pada DTI a
 
 ### Frontend
 
-Pengembangan sisi tampilan tampak depan (Frontend) dengan kriteria :
-* Dibangun menggunakan builder CSS (Contoh : shuffle.dev untuk Tailwind Builder) atau framework berbasis CDN seperti [tailwind](https://tailwindcss.com/), [bulma](https://bulma.io/) dan [vanillaframework](https://vanillaframework.io/).
-* Interaksi dengan backend menggunakan Pure VanillaJS dengan fungsi-fungsi yang dipakai ulang dipanggil menggunakan Javascript import dari CDN. Kumpulan fungsi JS Kami ada di [JSCroot](https://jscroot.github.io/).
-* Login Otorisasi dan Authentikasi Pengguna menggunakan [WhatsAuth](https://github.com/whatsauth/) yang sudah menggunakan Paseto untuk Security Token ke Backend.
-* Dibangun diatas platform GitHub Pages.
+Frontend dibangun menggunakan Arsitektur Serverless Micro Frontend,
+beberapa kriteria dalam pengembangan :
+* Dibangun menggunakan builder CSS (Contoh : shuffle.dev) atau framework berbasis CDN seperti [tailwind](https://tailwindcss.com/), [bulma](https://bulma.io/) dan [vanillaframework](https://vanillaframework.io/).
+* Interaksi dengan backend menggunakan Javascript ES6+ dengan pembagian file per fungsi-fungsi yang dapat dipakai berulang import dari CDN. Cheatsheet dan library bisa dilihat di [VanillaJSkit](https://vanillajskit.github.io/).
+* Login Otorisasi dan Authentikasi Pengguna menggunakan [WhatsAuth](https://github.com/whatsauth/) yang sudah menggunakan Paseto untuk Security Token ke Backend, disimpan dalam cookies pengguna.
+* Dibangun diatas platform GitHub Pages untuk tracking pengembangan serta efisiensi dalam penggunaan server dan maintenance.
 
 ### Backend
 

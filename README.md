@@ -1,6 +1,7 @@
 # Parameter Acuan
 
-Direktorat Teknologi Informasi ULBI, dalam pengembangannya berpedoman pada Green Coding
+Direktorat Teknologi Informasi ULBI, dalam pengembangannya berpedoman pada [Digital Campus Master Plan](DCMP202023-2027.pdf.pdf).
+Untuk efisiensi dalam penerapan DCMP diterapkan Green Coding.
 
 ![image](https://github.com/ditif/devops/assets/11188109/83a9cb3a-a932-4244-9de2-feb13a76fcad)
 

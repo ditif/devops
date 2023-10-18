@@ -54,6 +54,18 @@ Pengambangan sisi Backend dengan kriteria :
 * Backend berada di Docker On-premises atau layanan Cloud yang memiliki nilai latensi paling kecil yang diakses dari Indonesia.
 * Unit Testing menggunakan go test.
 
+### Standar Commit Message
+<kegiatan>(fitur) : <penjelasan>
+
+Link :
+[Commit Convesional](https://www.conventionalcommits.org/en/v1.0.0/)
+
+Contoh :
+feature(getdosenbyid) : mengambil data dosen menggunakan nidn
+refactor(getdosenbyid) : mengambil data dosen menggunakan nidn
+fix(getdosenbyid) : mengambil data dosen menggunakan nidn
+
+
 ### Landing page dan Web Profil
 
 Web berita, profile, landing page dipilih provider [Google](https://cloud.google.com/architecture/reduce-carbon-footprint). Blogger.com dengan custom css, js dan konten gambar didistribusikan dalam CDN Blogger.com dengan tetap menjaga nilai GTMetrix A.

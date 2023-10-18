@@ -55,15 +55,13 @@ Pengambangan sisi Backend dengan kriteria :
 * Unit Testing menggunakan go test.
 
 ### Standar Commit Message
-<kegiatan>(fitur) : <penjelasan>
-
 Link :
 [Commit Convesional](https://www.conventionalcommits.org/en/v1.0.0/)
 
 Contoh :
-feature(getdosenbyid) : mengambil data dosen menggunakan nidn
-refactor(getdosenbyid) : mengambil data dosen menggunakan nidn
-fix(getdosenbyid) : mengambil data dosen menggunakan nidn
+* feature(getdosenbyid) : mengambil data dosen menggunakan nidn
+* refactor(getdosenbyid) : mengambil data dosen menggunakan nidn
+* fix(getdosenbyid) : mengambil data dosen menggunakan nidn
 
 
 ### Landing page dan Web Profil

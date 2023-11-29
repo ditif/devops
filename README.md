@@ -67,3 +67,11 @@ Contoh :
 ### Landing page dan Web Profil
 
 Web berita, profile, landing page dipilih provider [Google](https://cloud.google.com/architecture/reduce-carbon-footprint). Blogger.com dengan custom css, js dan konten gambar didistribusikan dalam CDN Blogger.com dengan tetap menjaga nilai GTMetrix A.
+
+### Daily Scrum
+
+Setiap hari wajib ada daily scrum dengan bahasan:
+1. Melaporkan pekerjaan yang telah diselesaikan pada hari sebelumnya
+2. Membuat perencanaan untuk 24 jam ke depan
+3. Melaporkan hambatan yang dialami selama proses pengembangan produk
+4. Dibuka dengan mini scrum games

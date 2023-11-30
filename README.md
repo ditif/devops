@@ -52,7 +52,7 @@ beberapa kriteria dalam pengembangan :
 * Dibangun menggunakan builder CSS (Contoh : shuffle.dev) atau framework berbasis CDN seperti [tailwind](https://tailwindcss.com/), [bulma](https://bulma.io/) dan [vanillaframework](https://vanillaframework.io/).
 * Interaksi dengan backend menggunakan Javascript ES6+ dengan pembagian file per fungsi-fungsi yang dapat dipakai berulang import dari CDN. Cheatsheet dan library bisa dilihat di [VanillaJSkit](https://vanillajskit.github.io/).
 * Login Otorisasi dan Authentikasi Pengguna atau disebut juga dengan Single Sign On(SSO) menggunakan [WhatsAuth](https://github.com/whatsauth/) yang sudah menggunakan Paseto untuk Security Token ke Backend, disimpan dalam cookies pengguna.
-* Dibangun diatas platform GitHub Pages untuk tracking pengembangan serta efisiensi dalam penggunaan server dan maintenance.
+* Dideploy diatas platform CDN, untuk JS minimal menggunakan jsdelivr. HTML dan CSS pada Github Pages untuk tracking pengembangan serta efisiensi dalam penggunaan server dan maintenance.
 
 ### Backend
 

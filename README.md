@@ -15,6 +15,15 @@ Website selalu di evaluasi dan memiliki nilai GTMetrix : A
 
 ![image](https://user-images.githubusercontent.com/11188109/222995180-6544137c-0068-4861-a1c4-0704b2ea11e4.png)
 
+## Green Infrastructure
+
+Data center eksisting berada di dalam lingkungan kampus. Untuk penggunaan Cloud sebagai backend dengan ketentuan penyelenggara cloud masuk kategori leaders pada gartner magic quadrant
+![image](https://github.com/ditif/devops/assets/11188109/0547d1d9-37db-4592-ba26-33a143761454)
+
+Lokasi Server Cloud harus berada di Indonesia untuk mendapat latensi yang baik.
+
+Object Storage Menggunakan Cloudflare R2
+
 ## Green Coding Bahasa Pemrograman
 
 Sebagai perbandingan konsumsi komputasi CPU dan Memori dari beberapa bahasa pemrograman yang berjalan di server on premise kami :

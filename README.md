@@ -62,7 +62,7 @@ Pengambangan sisi Backend dengan kriteria :
 * Token Barier akses API yang digunakan adalah Paseto, tidak lagi menggunakan JWT karena lebih aman.
 * Backend berada di Docker On-premises atau layanan Cloud yang memiliki nilai latensi paling kecil yang diakses dari Indonesia.
 * Unit Testing menggunakan go test.
-* Definisi of Done(DOD) adakah swagger udah berjalan.
+* Definition of Done(DOD) adakah swagger dengan deskripsi dan example lengkap dan try out sudah berjalan.
 
 ### Standar Commit
 

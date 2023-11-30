@@ -54,11 +54,14 @@ Pengambangan sisi Backend dengan kriteria :
 * Backend berada di Docker On-premises atau layanan Cloud yang memiliki nilai latensi paling kecil yang diakses dari Indonesia.
 * Unit Testing menggunakan go test.
 
-### Standar Commit Message
+### Standar Commit
+
+Jika commit harian dibawah 10 maka bisa dipastikan terdapat kendala pada programmer, wajib diadakan wawancara dan tanya jawab kendalanya.
+
 Link :
 [Commit Convesional](https://www.conventionalcommits.org/en/v1.0.0/)
 
-Contoh :
+Message Standar, contoh :
 * feature(getdosenbyid) : mengambil data dosen menggunakan nidn
 * refactor(getdosenbyid) : mengambil data dosen menggunakan nidn
 * fix(getdosenbyid) : mengambil data dosen menggunakan nidn
@@ -70,8 +73,8 @@ Web berita, profile, landing page dipilih provider [Google](https://cloud.google
 
 ### Daily Scrum
 
-Setiap hari wajib ada daily scrum dengan bahasan:
+Setiap hari wajib ada daily scrum dengan bahasan yang DETIL tentang :
 1. Melaporkan pekerjaan yang telah diselesaikan pada hari sebelumnya
 2. Membuat perencanaan untuk 24 jam ke depan
 3. Melaporkan hambatan yang dialami selama proses pengembangan produk
-4. Dibuka dengan mini scrum games
+4. Dibuka dengan mini scrum games untuk memilih scrum master hari selanjutnya
